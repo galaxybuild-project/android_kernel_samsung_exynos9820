@@ -132,3 +132,8 @@ out/
 
 # TZDEV
 drivers/misc/tzdev/
+
+# Failed patch
+*.rej
+*.patch
+susfs4ksu
